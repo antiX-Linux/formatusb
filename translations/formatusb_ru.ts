@@ -9,7 +9,7 @@
     <message>
         <location filename="mainwindow.ui" line="46"/>
         <source>Quit application</source>
-        <translation>Выход</translation>
+        <translation>Выйти из приложения</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="49"/>
@@ -24,7 +24,7 @@
     <message>
         <location filename="mainwindow.ui" line="72"/>
         <source>Display help </source>
-        <translation>Показать справку</translation>
+        <translation>Отобразить справку</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="75"/>
@@ -79,12 +79,12 @@
     <message>
         <location filename="mainwindow.ui" line="276"/>
         <source>exfat</source>
-        <translation type="unfinished"/>
+        <translation>exfat</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="281"/>
         <source>ntfs</source>
-        <translation type="unfinished"/>
+        <translation>ntfs</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="289"/>
@@ -104,7 +104,7 @@
     <message>
         <location filename="mainwindow.ui" line="343"/>
         <source>File System Label</source>
-        <translation type="unfinished"/>
+        <translation>Метка файловой системы</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="179"/>
@@ -114,7 +114,7 @@
     <message>
         <location filename="mainwindow.cpp" line="179"/>
         <source>Format successful!</source>
-        <translation type="unfinished"/>
+        <translation>Форматирование успешно!</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="181"/>
@@ -124,7 +124,7 @@
     <message>
         <location filename="mainwindow.cpp" line="181"/>
         <source>Error encountered in the Format process</source>
-        <translation type="unfinished"/>
+        <translation>Во время форматирования произошла ошибка</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="228"/>
@@ -134,24 +134,24 @@
     <message>
         <location filename="mainwindow.cpp" line="228"/>
         <source>Please select a USB device to write to</source>
-        <translation>Выберите USB накопитель для записи</translation>
+        <translation>Пожалуйста, выберите USB накопитель для записи</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="234"/>
         <source>These actions will destroy all data on 
 
 </source>
-        <translation type="unfinished"/>
+        <translation>В результате данных действий все данные будут удалены на</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="234"/>
         <source>Do you wish to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Желаете ли вы продолжить?</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="276"/>
         <source>About</source>
-        <translation>О приложении</translation>
+        <translation>О программе</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="277"/>
@@ -161,7 +161,7 @@
     <message>
         <location filename="mainwindow.cpp" line="278"/>
         <source>Program for formatting USB devices</source>
-        <translation type="unfinished"/>
+        <translation>Программное обеспечение для форматирования USB-устройств</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="280"/>
@@ -195,7 +195,7 @@
     <message>
         <location filename="main.cpp" line="79"/>
         <source>You must run this program as root.</source>
-        <translation>Вы должны запустить программу от имени суперпользователя.</translation>
+        <translation>Вы должны запустить программу от имени суперпользователя(root).</translation>
     </message>
 </context>
 </TS>
